@@ -1,0 +1,13 @@
+G:\Backend\Console\C#\Natação\obj\Debug\netcoreapp3.1\Natação.csprojAssemblyReference.cache
+G:\Backend\Console\C#\Natação\obj\Debug\netcoreapp3.1\Natação.AssemblyInfoInputs.cache
+G:\Backend\Console\C#\Natação\obj\Debug\netcoreapp3.1\Natação.AssemblyInfo.cs
+G:\Backend\Console\C#\Natação\obj\Debug\netcoreapp3.1\Natação.csproj.CoreCompileInputs.cache
+G:\Backend\Console\C#\Natação\bin\Debug\netcoreapp3.1\Natação.exe
+G:\Backend\Console\C#\Natação\bin\Debug\netcoreapp3.1\Natação.deps.json
+G:\Backend\Console\C#\Natação\bin\Debug\netcoreapp3.1\Natação.runtimeconfig.json
+G:\Backend\Console\C#\Natação\bin\Debug\netcoreapp3.1\Natação.runtimeconfig.dev.json
+G:\Backend\Console\C#\Natação\bin\Debug\netcoreapp3.1\Natação.dll
+G:\Backend\Console\C#\Natação\bin\Debug\netcoreapp3.1\Natação.pdb
+G:\Backend\Console\C#\Natação\obj\Debug\netcoreapp3.1\Natação.dll
+G:\Backend\Console\C#\Natação\obj\Debug\netcoreapp3.1\Natação.pdb
+G:\Backend\Console\C#\Natação\obj\Debug\netcoreapp3.1\Natação.genruntimeconfig.cache
