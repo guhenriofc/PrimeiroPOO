@@ -1,0 +1,13 @@
+G:\Backend\Console\C#\Meses\obj\Debug\netcoreapp3.1\Meses.csprojAssemblyReference.cache
+G:\Backend\Console\C#\Meses\obj\Debug\netcoreapp3.1\Meses.AssemblyInfoInputs.cache
+G:\Backend\Console\C#\Meses\obj\Debug\netcoreapp3.1\Meses.AssemblyInfo.cs
+G:\Backend\Console\C#\Meses\obj\Debug\netcoreapp3.1\Meses.csproj.CoreCompileInputs.cache
+G:\Backend\Console\C#\Meses\bin\Debug\netcoreapp3.1\Meses.exe
+G:\Backend\Console\C#\Meses\bin\Debug\netcoreapp3.1\Meses.deps.json
+G:\Backend\Console\C#\Meses\bin\Debug\netcoreapp3.1\Meses.runtimeconfig.json
+G:\Backend\Console\C#\Meses\bin\Debug\netcoreapp3.1\Meses.runtimeconfig.dev.json
+G:\Backend\Console\C#\Meses\bin\Debug\netcoreapp3.1\Meses.dll
+G:\Backend\Console\C#\Meses\bin\Debug\netcoreapp3.1\Meses.pdb
+G:\Backend\Console\C#\Meses\obj\Debug\netcoreapp3.1\Meses.dll
+G:\Backend\Console\C#\Meses\obj\Debug\netcoreapp3.1\Meses.pdb
+G:\Backend\Console\C#\Meses\obj\Debug\netcoreapp3.1\Meses.genruntimeconfig.cache
