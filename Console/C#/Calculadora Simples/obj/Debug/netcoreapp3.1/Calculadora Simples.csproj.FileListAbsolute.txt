@@ -1,0 +1,13 @@
+G:\Backend\Console\C#\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.exe
+G:\Backend\Console\C#\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.deps.json
+G:\Backend\Console\C#\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.runtimeconfig.json
+G:\Backend\Console\C#\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.runtimeconfig.dev.json
+G:\Backend\Console\C#\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.dll
+G:\Backend\Console\C#\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.pdb
+G:\Backend\Console\C#\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.csprojAssemblyReference.cache
+G:\Backend\Console\C#\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.AssemblyInfoInputs.cache
+G:\Backend\Console\C#\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.AssemblyInfo.cs
+G:\Backend\Console\C#\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.csproj.CoreCompileInputs.cache
+G:\Backend\Console\C#\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.dll
+G:\Backend\Console\C#\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.pdb
+G:\Backend\Console\C#\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.genruntimeconfig.cache
