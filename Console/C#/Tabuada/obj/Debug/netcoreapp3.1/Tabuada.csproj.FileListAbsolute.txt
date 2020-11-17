@@ -1,0 +1,13 @@
+G:\Backend\Console\C#\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csprojAssemblyReference.cache
+G:\Backend\Console\C#\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfoInputs.cache
+G:\Backend\Console\C#\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfo.cs
+G:\Backend\Console\C#\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.CoreCompileInputs.cache
+G:\Backend\Console\C#\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.exe
+G:\Backend\Console\C#\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.deps.json
+G:\Backend\Console\C#\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.json
+G:\Backend\Console\C#\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.dev.json
+G:\Backend\Console\C#\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.dll
+G:\Backend\Console\C#\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.pdb
+G:\Backend\Console\C#\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
+G:\Backend\Console\C#\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
+G:\Backend\Console\C#\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache
