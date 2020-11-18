@@ -1,0 +1,13 @@
+G:\Backend\Console\C#\Numero Invalido\bin\Debug\netcoreapp3.1\Numero Invalido.exe
+G:\Backend\Console\C#\Numero Invalido\bin\Debug\netcoreapp3.1\Numero Invalido.deps.json
+G:\Backend\Console\C#\Numero Invalido\bin\Debug\netcoreapp3.1\Numero Invalido.runtimeconfig.json
+G:\Backend\Console\C#\Numero Invalido\bin\Debug\netcoreapp3.1\Numero Invalido.runtimeconfig.dev.json
+G:\Backend\Console\C#\Numero Invalido\bin\Debug\netcoreapp3.1\Numero Invalido.dll
+G:\Backend\Console\C#\Numero Invalido\bin\Debug\netcoreapp3.1\Numero Invalido.pdb
+G:\Backend\Console\C#\Numero Invalido\obj\Debug\netcoreapp3.1\Numero Invalido.csprojAssemblyReference.cache
+G:\Backend\Console\C#\Numero Invalido\obj\Debug\netcoreapp3.1\Numero Invalido.AssemblyInfoInputs.cache
+G:\Backend\Console\C#\Numero Invalido\obj\Debug\netcoreapp3.1\Numero Invalido.AssemblyInfo.cs
+G:\Backend\Console\C#\Numero Invalido\obj\Debug\netcoreapp3.1\Numero Invalido.csproj.CoreCompileInputs.cache
+G:\Backend\Console\C#\Numero Invalido\obj\Debug\netcoreapp3.1\Numero Invalido.dll
+G:\Backend\Console\C#\Numero Invalido\obj\Debug\netcoreapp3.1\Numero Invalido.pdb
+G:\Backend\Console\C#\Numero Invalido\obj\Debug\netcoreapp3.1\Numero Invalido.genruntimeconfig.cache
