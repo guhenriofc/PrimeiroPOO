@@ -24,3 +24,16 @@ F:\Projeto Console SENAI\Projeto-Console\Console\C#\Presencial\Projeto-Console\C
 F:\Projeto Console SENAI\Projeto-Console\Console\C#\Presencial\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.dll
 F:\Projeto Console SENAI\Projeto-Console\Console\C#\Presencial\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.pdb
 F:\Projeto Console SENAI\Projeto-Console\Console\C#\Presencial\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.genruntimeconfig.cache
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\bin\Debug\netcoreapp3.1\Revisão C#.exe
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\bin\Debug\netcoreapp3.1\Revisão C#.deps.json
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\bin\Debug\netcoreapp3.1\Revisão C#.runtimeconfig.json
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\bin\Debug\netcoreapp3.1\Revisão C#.runtimeconfig.dev.json
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\bin\Debug\netcoreapp3.1\Revisão C#.dll
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\bin\Debug\netcoreapp3.1\Revisão C#.pdb
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.csprojAssemblyReference.cache
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.AssemblyInfoInputs.cache
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.AssemblyInfo.cs
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.csproj.CoreCompileInputs.cache
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.dll
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.pdb
+G:\Backend\Projeto-Console\Console\C#\Revisão C#\obj\Debug\netcoreapp3.1\Revisão C#.genruntimeconfig.cache

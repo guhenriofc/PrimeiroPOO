@@ -32,11 +32,12 @@ namespace Revisão_C_
                 for (var i = 0; i < 10; i++)
                 {
                     Console.WriteLine($"O Aluno: {nomes[i]} possui média = {media[i]}");
-                    if(media[i] > 7){
+                    if(media[i] >= 7){
                         situacao[i] = "Aprovado";
                     } else{
                         situacao[i] = "Reprovado";
                     }
+                    Console.WriteLine(situacao[i]);
                 }
         }
     }

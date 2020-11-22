@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projeto Console SENAI\\Projeto-Console\\Console\\C#\\Presencial\\Projeto-Console\\Console\\C#\\Revisão C#\\Revisão C#.csproj",
+      "projectUniqueName": "G:\\Backend\\Projeto-Console\\Console\\C#\\Revisão C#\\Revisão C#.csproj",
       "projectName": "Revisão C#",
-      "projectPath": "F:\\Projeto Console SENAI\\Projeto-Console\\Console\\C#\\Presencial\\Projeto-Console\\Console\\C#\\Revisão C#\\Revisão C#.csproj",
+      "projectPath": "G:\\Backend\\Projeto-Console\\Console\\C#\\Revisão C#\\Revisão C#.csproj",
       "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-      "outputPath": "F:\\Projeto Console SENAI\\Projeto-Console\\Console\\C#\\Presencial\\Projeto-Console\\Console\\C#\\Revisão C#\\obj\\",
+      "outputPath": "G:\\Backend\\Projeto-Console\\Console\\C#\\Revisão C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config"
