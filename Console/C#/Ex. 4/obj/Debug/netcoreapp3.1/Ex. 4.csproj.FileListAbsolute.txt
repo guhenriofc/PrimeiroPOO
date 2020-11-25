@@ -1,0 +1,13 @@
+G:\Backend\Console\C#\Ex. 4\obj\Debug\netcoreapp3.1\Ex. 4.csprojAssemblyReference.cache
+G:\Backend\Console\C#\Ex. 4\obj\Debug\netcoreapp3.1\Ex. 4.AssemblyInfoInputs.cache
+G:\Backend\Console\C#\Ex. 4\obj\Debug\netcoreapp3.1\Ex. 4.AssemblyInfo.cs
+G:\Backend\Console\C#\Ex. 4\obj\Debug\netcoreapp3.1\Ex. 4.csproj.CoreCompileInputs.cache
+G:\Backend\Console\C#\Ex. 4\bin\Debug\netcoreapp3.1\Ex. 4.exe
+G:\Backend\Console\C#\Ex. 4\bin\Debug\netcoreapp3.1\Ex. 4.deps.json
+G:\Backend\Console\C#\Ex. 4\bin\Debug\netcoreapp3.1\Ex. 4.runtimeconfig.json
+G:\Backend\Console\C#\Ex. 4\bin\Debug\netcoreapp3.1\Ex. 4.runtimeconfig.dev.json
+G:\Backend\Console\C#\Ex. 4\bin\Debug\netcoreapp3.1\Ex. 4.dll
+G:\Backend\Console\C#\Ex. 4\bin\Debug\netcoreapp3.1\Ex. 4.pdb
+G:\Backend\Console\C#\Ex. 4\obj\Debug\netcoreapp3.1\Ex. 4.dll
+G:\Backend\Console\C#\Ex. 4\obj\Debug\netcoreapp3.1\Ex. 4.pdb
+G:\Backend\Console\C#\Ex. 4\obj\Debug\netcoreapp3.1\Ex. 4.genruntimeconfig.cache
