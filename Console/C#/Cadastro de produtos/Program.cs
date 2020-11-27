@@ -8,7 +8,7 @@ namespace Cadastro_de_produtos
         {
             // Variável
             bool Promocao;
-            int contador;
+            int contador = 0;
             int selecao;
             string escolha;
 
@@ -41,9 +41,13 @@ namespace Cadastro_de_produtos
                                 nomes[contador] = Console.ReadLine();
                                 Console.Write("Preço do produto: ");
                                 preco[contador] = float.Parse(Console.ReadLine());
+                                contador++;
                                 
-                                
-                                
+                                Console.WriteLine("Deseja cadastrar mais produtos?");
+                                escolha = Console.ReadLine();
+                            } else{
+                                Console.WriteLine("LIMITE DE CADASTRO EXCEDIDO!");
+                                break;
                             }
                         } while (escolha.ToUpper() == "SIM");
                         break;
