@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\bin\Debug\netcoreapp3.1\Cadastro de passagem area.exe
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\bin\Debug\netcoreapp3.1\Cadastro de passagem area.deps.json
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\bin\Debug\netcoreapp3.1\Cadastro de passagem area.runtimeconfig.json
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\bin\Debug\netcoreapp3.1\Cadastro de passagem area.runtimeconfig.dev.json
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\bin\Debug\netcoreapp3.1\Cadastro de passagem area.dll
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\bin\Debug\netcoreapp3.1\Cadastro de passagem area.pdb
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\obj\Debug\netcoreapp3.1\Cadastro de passagem area.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\obj\Debug\netcoreapp3.1\Cadastro de passagem area.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\obj\Debug\netcoreapp3.1\Cadastro de passagem area.AssemblyInfo.cs
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\obj\Debug\netcoreapp3.1\Cadastro de passagem area.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\obj\Debug\netcoreapp3.1\Cadastro de passagem area.dll
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\obj\Debug\netcoreapp3.1\Cadastro de passagem area.pdb
+C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de passagem area\obj\Debug\netcoreapp3.1\Cadastro de passagem area.genruntimeconfig.cache
