@@ -11,3 +11,16 @@ C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de produtos\
 C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.dll
 C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.pdb
 C:\Users\dev\Desktop\G.henrique\Projeto-Console\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.genruntimeconfig.cache
+G:\Backend\Console\C#\Cadastro de produtos\bin\Debug\netcoreapp3.1\Cadastro de produtos.exe
+G:\Backend\Console\C#\Cadastro de produtos\bin\Debug\netcoreapp3.1\Cadastro de produtos.deps.json
+G:\Backend\Console\C#\Cadastro de produtos\bin\Debug\netcoreapp3.1\Cadastro de produtos.runtimeconfig.json
+G:\Backend\Console\C#\Cadastro de produtos\bin\Debug\netcoreapp3.1\Cadastro de produtos.runtimeconfig.dev.json
+G:\Backend\Console\C#\Cadastro de produtos\bin\Debug\netcoreapp3.1\Cadastro de produtos.dll
+G:\Backend\Console\C#\Cadastro de produtos\bin\Debug\netcoreapp3.1\Cadastro de produtos.pdb
+G:\Backend\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.csprojAssemblyReference.cache
+G:\Backend\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.AssemblyInfoInputs.cache
+G:\Backend\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.AssemblyInfo.cs
+G:\Backend\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.csproj.CoreCompileInputs.cache
+G:\Backend\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.dll
+G:\Backend\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.pdb
+G:\Backend\Console\C#\Cadastro de produtos\obj\Debug\netcoreapp3.1\Cadastro de produtos.genruntimeconfig.cache

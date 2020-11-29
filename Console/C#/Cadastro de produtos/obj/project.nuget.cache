@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZQ3sucCmxbJj5GI72Nd7CQ66SD6kJSYuWFfaQ/TR7a8h+edpyS1NY1pTvFS6E5L2OcqMIS+YRe+B/NwcHMCdA==",
+  "dgSpecHash": "QjX7dye0Xqo/r63cqC7jAj6ej2aWSCAzsL9jpNk1fbTzlqWAAsV2eDXh2kyVdir4JrHz1uDFdK0WY1NyHe49oA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dev\\Desktop\\G.henrique\\Projeto-Console\\Console\\C#\\Cadastro de produtos\\Cadastro de produtos.csproj",
+  "projectFilePath": "G:\\Backend\\Console\\C#\\Cadastro de produtos\\Cadastro de produtos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
