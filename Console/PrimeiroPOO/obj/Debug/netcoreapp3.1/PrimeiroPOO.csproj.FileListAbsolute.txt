@@ -1,0 +1,13 @@
+G:\Backend\Console\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.exe
+G:\Backend\Console\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.deps.json
+G:\Backend\Console\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.json
+G:\Backend\Console\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.dev.json
+G:\Backend\Console\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.dll
+G:\Backend\Console\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+G:\Backend\Console\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csprojAssemblyReference.cache
+G:\Backend\Console\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfoInputs.cache
+G:\Backend\Console\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfo.cs
+G:\Backend\Console\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csproj.CoreCompileInputs.cache
+G:\Backend\Console\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.dll
+G:\Backend\Console\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+G:\Backend\Console\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.genruntimeconfig.cache
